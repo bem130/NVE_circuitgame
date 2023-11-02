@@ -4,6 +4,8 @@
 [CircuitGame](https://github.com/bem130/circuitgame)というのは[Bem130](https://github.com/bem130)が開発している論理回路シミュレータのこと  
 NVEというのは[Bem130](https://github.com/bem130)が開発しているプログラミング言語であるNLPの実行環境[NLPS](https://github.com/neknaj/nlps)に含まれる、仮想マシンのこと  
 
+(nlps/nve.worker.js)[https://github.com/neknaj/nlps/blob/main/nve.worker.js]と同等の機能を実現することが目標  
+
 ## CircuitGame
 Bem130Server [https://neknaj.bem130.com/repos/circuitgame/3deditor.html](https://neknaj.bem130.com/repos/circuitgame/3deditor.html)  
 GithubPages [https://bem130.github.io/circuitgame/3deditor.html](https://bem130.github.io/circuitgame/3deditor.html)  
